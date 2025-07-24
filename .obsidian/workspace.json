@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Nokia/Nokia 650.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Nokia 650"
             }
           }
         ]
@@ -168,6 +168,11 @@
   },
   "active": "b70b52937e6d0b56",
   "lastOpenFiles": [
+    "Nokia/Nokia 1020.md",
+    "Nokia/Nokia 1100.md",
+    "Nokia/Nokia 1101.md",
+    "Foto/Nokia 1100.jpeg",
+    "README.md",
     "Коллекции/Без названия.md",
     "Коллекции",
     "Шаблоны/Шаблон.md",
@@ -192,14 +197,9 @@
     "Nokia/Nokia 6270.md",
     "Nokia/Nokia 6267.md",
     "Nokia/Nokia 6260.md",
-    "Nokia/Nokia 625.md",
-    "Nokia/Nokia 6233.md",
-    "Nokia/Nokia 6230i.md",
-    "Nokia/Nokia 6230.md",
     "Nokia",
     "Foto/orig.jpeg",
     "Foto/Nokia 7900.jpg",
-    "Foto/Nokia 1100.jpeg",
     "Foto"
   ]
 }
