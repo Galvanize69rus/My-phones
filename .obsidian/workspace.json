@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nokia/Nokia 100.md",
-                "mode": "source",
+                "file": "Nokia/Nokia 101.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nokia 100"
+              "title": "Nokia 101"
             }
           }
         ]
@@ -182,16 +182,17 @@
   },
   "active": "b70b52937e6d0b56",
   "lastOpenFiles": [
+    "Nokia/Nokia 100.md",
+    "Nokia/Nokia 101.md",
+    "Nokia/Nokia 1.md",
     "Nokia/Nokia 6708.md",
     "Nokia/Nokia 6108.md",
     "Nokia/Nokia 3108.md",
     "Foto/20250727_035617.jpg",
     "Foto/20250727_034800.jpg",
-    "Nokia/Nokia 101.md",
-    "Nokia/Nokia 100.md",
     "Nokia/Nokia 650.md",
-    "20250727_035617.jpg",
-    "20250727_034800.jpg",
+    "Foto/20250727_035617 1.jpg",
+    "Foto/20250727_034800 1.jpg",
     "Nokia/Nokia N97.md",
     "Nokia/Nokia N97 mini.md",
     "Nokia/Nokia C2-06.md",
@@ -211,7 +212,6 @@
     "Nokia/Nokia 8801.md",
     "Nokia/Nokia 8800 Sirocco.md",
     "Nokia/Nokia 8310.md",
-    "Nokia/Nokia 8265.md",
     "Foto/Nokia 1100.jpeg",
     "Коллекции",
     "Шаблоны",
