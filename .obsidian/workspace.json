@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8b480cfc17a42da4",
+        "id": "ffe649934726cce5",
         "type": "tabs",
         "children": [
           {
-            "id": "b70b52937e6d0b56",
+            "id": "32e154a61278eb73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nokia/Nokia 105 DS (2019).md",
+                "file": "Nokia/Nokia 101.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nokia 105 DS (2019)"
+              "title": "Nokia 101"
             }
           }
         ]
@@ -180,46 +180,46 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "b70b52937e6d0b56",
+  "active": "32e154a61278eb73",
   "lastOpenFiles": [
-    "Nokia/Nokia 105 DS (2017).md",
-    "Nokia/Nokia 105.md",
-    "Nokia/Nokia 101.md",
+    "conflict-files-obsidian-git.md",
     "Nokia/Nokia 100.md",
-    "Foto/20250727_035617 2.jpg",
-    "Foto/20250727_034800 2.jpg",
+    "Nokia/Nokia 101.md",
+    "Nokia/Nokia 105 (2013).md",
+    "Nokia/Nokia 105 (2017).md",
+    "Nokia/Nokia 105 DS (2019).md",
+    "Nokia/Nokia 105 DS (2017).md",
+    "Nokia/Nokia 105 (2015) DS.md",
+    "Foto/20250730_nokia_100.jpg",
     "Foto/20250727_035617 1.jpg",
     "Foto/20250727_035617.jpg",
+    "Foto/20250727_034800 3.jpg",
+    "Foto/20250727_034800 2.jpg",
     "Foto/20250727_034800.jpg",
     "Foto/20250727_034800 1.jpg",
     "Nokia/Nokia 1.md",
-    "Nokia/Nokia 6708.md",
-    "Nokia/Nokia 6108.md",
-    "Nokia/Nokia 3108.md",
-    "Nokia/Nokia 650.md",
-    "Nokia/Nokia N97.md",
-    "Nokia/Nokia N97 mini.md",
-    "Nokia/Nokia C2-06.md",
-    "Nokia/Nokia C2-05.md",
-    "Nokia/Nokia C2-03.md",
-    "Nokia/Nokia C2-01.md",
-    "Nokia/Nokia C1-02.md",
-    "Nokia/Nokia 9500.md",
-    "Nokia/Nokia 9300.md",
-    "Nokia/Nokia 9210.md",
-    "Nokia/Nokia 920 Lumia.md",
-    "Nokia/Nokia 9110i.md",
-    "Nokia/Nokia 9000.md",
-    "Nokia/Nokia 8910i.md",
-    "Nokia/Nokia 8887.md",
-    "Nokia/Nokia 8850.md",
-    "Nokia/Nokia 8801.md",
-    "Foto/Nokia 1100.jpeg",
+    "Nokia/Nokia 105 (2019).md",
+    "Nokia/Nokia XL.md",
+    "Nokia/Nokia X7.md",
+    "Nokia/Nokia X6.md",
+    "Nokia/Nokia X5-01.md",
+    "Nokia/Nokia X3-02.md",
+    "Nokia/Nokia X3-00.md",
+    "Nokia/Nokia X2.md",
+    "Nokia/Nokia X2-02.md",
+    "Nokia/Nokia X2-01.md",
+    "Nokia/Nokia X2 DS.md",
+    "Nokia/Nokia X1-01.md",
+    "Nokia/Nokia X.md",
+    "Nokia/Nokia THF-11.md",
+    "Nokia/Nokia THF-10.md",
+    "Nokia/Nokia T7.md",
+    "Foto/20250731_nokia_105_2019.jpg",
+    "Foto/20250731_nokia_105.jpg",
+    "Foto/20250731_nokia_101.jpg",
     "Коллекции",
     "Шаблоны",
     "Nokia",
-    "Foto/orig.jpeg",
-    "Foto/Nokia 7900.jpg",
     "Foto"
   ]
 }
