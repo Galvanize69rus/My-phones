@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nokia/Nokia 105 (2013).md",
+                "file": "Nokia/Nokia 105 (2019).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nokia 105 (2013)"
+              "title": "Nokia 105 (2019)"
             }
           }
         ]
@@ -180,15 +180,17 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "aa56ceb42dfe9120",
+  "active": "6795e7c5ce5c88f5",
   "lastOpenFiles": [
-    "Nokia/Nokia 106.md",
-    "Nokia/Nokia 105 (2019).md",
+    "Nokia/Nokia 550 (THF-10).md",
+    "Nokia/Nokia 540 (THF-11).md",
     "Nokia/Nokia 105 (2017).md",
     "Nokia/Nokia 105 (2015) DS.md",
     "Nokia/Nokia 105 (2013).md",
     "Nokia/Nokia 101.md",
     "Nokia/Nokia 100.md",
+    "Nokia/Nokia 105 (2019).md",
+    "Nokia/Nokia 106.md",
     "Nokia/Nokia 1.md",
     "conflict-files-obsidian-git.md",
     "Foto/20250730_nokia_100.jpg",
@@ -214,8 +216,6 @@
     "Nokia/Nokia X1-01.md",
     "Nokia/Nokia X.md",
     "Nokia/Nokia THF-11.md",
-    "Nokia/Nokia THF-10.md",
-    "Nokia/Nokia T7.md",
     "Foto/20250731_nokia_105.jpg",
     "Foto/20250731_nokia_101.jpg",
     "Коллекции",
